@@ -43,7 +43,7 @@ language-agnostic-chatbot/
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/karanLokhande29/language-agnostic-chatbot.git
+git clone https://github.com/meermagia/Language-Agnostic-Chatbot.git
 cd language-agnostic-chatbot
 ```
 
@@ -151,5 +151,5 @@ This project is open source. See the repository for details.
 
 ## 👤 Author
 
-**Karan Lokhande**
-[GitHub](https://github.com/karanLokhande29)
+**Meer Magia**
+[GitHub](https://github.com/meermagia)
